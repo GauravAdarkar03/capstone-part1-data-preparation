@@ -55,4 +55,6 @@ Title
 
 
 
-### AI Assistance: AI tools were used to assist with code explanations, debugging, documentation, and improving code readability. All implementation, validation, analysis, and final decisions were reviewed, understood, and verified before submission.
+## AI Assistance
+
+AI tools were used to assist with code explanations, debugging, and documentation. All implementation, analysis, and final submission content were reviewed, understood, and verified by the author.
