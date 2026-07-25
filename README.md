@@ -53,8 +53,6 @@ Title
 *   **Insight 4 (Top Performing Categories):** Categories 2 and 3 show the highest average lifetime engaged users, indicating these are strong content areas for audience resonance.
 *   **Insight 5 (Optimal Posting Hours):** Posts made around 5 AM and 2 PM tend to receive higher average total interactions, suggesting these hours as potential optimal times for maximizing engagement.
 
-
-
 ## AI Assistance
 
 AI tools were used to assist with code explanations, debugging, and documentation. All implementation, analysis, and final submission content were reviewed, understood, and verified by the author.
